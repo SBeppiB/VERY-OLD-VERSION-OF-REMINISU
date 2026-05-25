@@ -1,0 +1,10 @@
+[[Reminisu/3 - Worldbuilding/CHARACTER CARDS/The Balance/Scribbles]]
+[[Reminisu/3 - Worldbuilding/CHARACTER CARDS/The Balance/Inky]]
+[[Reminisu/3 - Worldbuilding/CHARACTER CARDS/The Balance/Kronus]]
+[[Reminisu/3 - Worldbuilding/CHARACTER CARDS/The Balance/Sionide]]
+[[Reminisu/3 - Worldbuilding/CHARACTER CARDS/The Balance/Eco]]
+[[Reminisu/3 - Worldbuilding/CHARACTER CARDS/The Balance/Being]]
+--trinity
+[[3 - Worldbuilding/CHARACTER CARDS/Trinity/Shara Alaya]]
+[[3 - Worldbuilding/CHARACTER CARDS/Trinity/Arc]]
+[[3 - Worldbuilding/CHARACTER CARDS/Trinity/Cosmic Soul]]

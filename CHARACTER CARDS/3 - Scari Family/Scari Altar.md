@@ -1,0 +1,1 @@
+The scari altar is basically the scari family where they all must sacrifice a part of themselves to something

@@ -1,0 +1,11 @@
+List to group [[00-Mages]]
+
+[[Fred Asterik]]
+[[Maya podróżnicy]]
+[[Ming salore]]
+[[Emerald rain]]
+[[Reminisu/3 - Worldbuilding/CHARACTER CARDS/Murasaki Family/Aya Murasaki]]
+[[Reminisu/3 - Worldbuilding/CHARACTER CARDS/Murasaki Family/Hana Murasaki]]
+[[Reminisu/3 - Worldbuilding/CHARACTER CARDS/Murasaki Family/Eva Murasaki]]
+[[Valorin Karzad]]
+[[Araniya]]

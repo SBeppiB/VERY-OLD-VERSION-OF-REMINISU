@@ -1,0 +1,2 @@
+[[Yarako Dynamics Lore]]
+[[Union]]
