@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"f21d23e2c2bc3f8e","type":"file","file":"Reminisu/3 - Worldbuilding/OMNNIVERSE/CHARACTER CARDS/Sarah Paulauskas.md","x":-560,"y":-940,"width":400,"height":400},
+		{"id":"2a7cc4b4d64342ad","type":"text","text":"Creator\n","x":-62,"y":-765,"width":125,"height":50},
+		{"id":"3bd2cfa6cca5edd7","type":"file","file":"Reminisu/3 - Worldbuilding/OMNNIVERSE/CHARACTER CARDS/Nepherite/SPECS.md","x":80,"y":-875,"width":240,"height":320},
+		{"id":"fddadbe9240e0b9a","type":"file","file":"Reminisu/3 - Worldbuilding/TECHNOLOGY/Roota Industries/Soul Snatchers.md","x":-980,"y":-900,"width":240,"height":320},
+		{"id":"0c73e7d0f4c636f7","type":"text","text":"technically all related?","x":-1060,"y":410,"width":250,"height":60},
+		{"id":"e635285217c1651b","type":"file","file":"Reminisu/3 - Worldbuilding/OMNNIVERSE/CHARACTER CARDS/Nepherite/Nepherite.md","x":-560,"y":240,"width":423,"height":400},
+		{"id":"a8b3d5eb1c9943e2","type":"file","file":"Reminisu/3 - Worldbuilding/OMNNIVERSE/CHARACTER CARDS/1 - Murasaki Family/Xia Murasaki/Xia Murasaki.md","x":-1640,"y":240,"width":400,"height":400},
+		{"id":"baafdefa0be0f610","type":"file","file":"Reminisu/3 - Worldbuilding/OMNNIVERSE/CHARACTER CARDS/1 - Murasaki Family/Aya Murasaki.md","x":-1640,"y":-200,"width":400,"height":400},
+		{"id":"74862659d4227e4d","type":"file","file":"Reminisu/3 - Worldbuilding/OMNNIVERSE/CHARACTER CARDS/1 - Murasaki Family/Hana Murasaki.md","x":-1640,"y":-660,"width":400,"height":400},
+		{"id":"da125b2fedac1cc7","type":"file","file":"Reminisu/3 - Worldbuilding/OMNNIVERSE/CHARACTER CARDS/1 - Murasaki Family/Eva Murasaki.md","x":-1640,"y":680,"width":400,"height":380},
+		{"id":"ea2e0243ef00362e","type":"text","text":"big dick in charge\n","x":-484,"y":-2300,"width":250,"height":60},
+		{"id":"67657688f783da8f","x":-459,"y":-2200,"width":200,"height":180,"type":"file","file":"Reminisu/3 - Worldbuilding/OMNNIVERSE/CHARACTER CARDS/5 - Pilton Family/Robert Pilton.md"},
+		{"id":"b0573a08a773e75f","type":"file","file":"Reminisu/1 - NODES/Pilton Dynamics.md","x":-559,"y":-1880,"width":400,"height":400},
+		{"id":"5a9b9e3d510493e9","type":"file","file":"Reminisu/1 - NODES/Roota Industry.md","x":-548,"y":-1300,"width":378,"height":120},
+		{"id":"5ea5046bcef04c37","x":-420,"y":-1400,"width":123,"height":50,"type":"text","text":"Sub-branch"},
+		{"id":"0bbc71423a7bcf33","x":-485,"y":-1060,"width":250,"height":60,"type":"text","text":"Lead researcher and designer for the SSV5's"}
+	],
+	"edges":[
+		{"id":"aa8cf453d560b294","fromNode":"2a7cc4b4d64342ad","fromSide":"left","toNode":"f21d23e2c2bc3f8e","toSide":"right"},
+		{"id":"0567eeeb3122b015","fromNode":"f21d23e2c2bc3f8e","fromSide":"bottom","toNode":"e635285217c1651b","toSide":"top"},
+		{"id":"48d2be3ca3eeefbe","fromNode":"fddadbe9240e0b9a","fromSide":"right","toNode":"e635285217c1651b","toSide":"left"},
+		{"id":"7571155a3f5a24cd","fromNode":"3bd2cfa6cca5edd7","fromSide":"left","toNode":"e635285217c1651b","toSide":"right"},
+		{"id":"1af025ec166c2616","fromNode":"3bd2cfa6cca5edd7","fromSide":"left","toNode":"e635285217c1651b","toSide":"right"},
+		{"id":"bf3d2aa017f2f6f9","fromNode":"5a9b9e3d510493e9","fromSide":"bottom","toNode":"fddadbe9240e0b9a","toSide":"top"},
+		{"id":"01d38055d9bb0188","fromNode":"5a9b9e3d510493e9","fromSide":"bottom","toNode":"3bd2cfa6cca5edd7","toSide":"top"},
+		{"id":"77987ec616b39664","fromNode":"ea2e0243ef00362e","fromSide":"bottom","toNode":"67657688f783da8f","toSide":"top"},
+		{"id":"fbf45f7718e3f8c3","fromNode":"74862659d4227e4d","fromSide":"bottom","toNode":"baafdefa0be0f610","toSide":"top"},
+		{"id":"30d35fd49c6ca4fa","fromNode":"baafdefa0be0f610","fromSide":"bottom","toNode":"a8b3d5eb1c9943e2","toSide":"top"},
+		{"id":"c128ef746ca0ecec","fromNode":"a8b3d5eb1c9943e2","fromSide":"bottom","toNode":"da125b2fedac1cc7","toSide":"top"},
+		{"id":"17fd44cef883af32","fromNode":"a8b3d5eb1c9943e2","fromSide":"right","toNode":"0c73e7d0f4c636f7","toSide":"left"},
+		{"id":"227f21bc893f47c5","fromNode":"0c73e7d0f4c636f7","fromSide":"right","toNode":"e635285217c1651b","toSide":"left"},
+		{"id":"06a0688acbc6198a","fromNode":"67657688f783da8f","fromSide":"bottom","toNode":"b0573a08a773e75f","toSide":"top"},
+		{"id":"c6d71f094caac5d2","fromNode":"b0573a08a773e75f","fromSide":"bottom","toNode":"5ea5046bcef04c37","toSide":"top"},
+		{"id":"9be51f98af6263e7","fromNode":"5ea5046bcef04c37","fromSide":"bottom","toNode":"5a9b9e3d510493e9","toSide":"top"},
+		{"id":"b449400c730e5fa4","fromNode":"0bbc71423a7bcf33","fromSide":"bottom","toNode":"f21d23e2c2bc3f8e","toSide":"top"},
+		{"id":"12d9da41713c1a8c","fromNode":"5a9b9e3d510493e9","fromSide":"bottom","toNode":"0bbc71423a7bcf33","toSide":"top"}
+	]
+}

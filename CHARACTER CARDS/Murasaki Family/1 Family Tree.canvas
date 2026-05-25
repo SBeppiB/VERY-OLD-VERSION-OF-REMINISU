@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"f85b043d3804723c","x":-440,"y":-62,"width":261,"height":341,"type":"file","file":"REMINISU/3 - Worldbuilding/CHARACTER CARDS/Murasaki Family/Aya Murasaki.md"},
+		{"id":"a5ad4c661021dea4","x":-120,"y":-66,"width":261,"height":345,"type":"file","file":"REMINISU/3 - Worldbuilding/CHARACTER CARDS/Murasaki Family/Xia Murasaki.md"},
+		{"id":"bae4f4714e9e9479","x":220,"y":-66,"width":261,"height":345,"type":"file","file":"REMINISU/3 - Worldbuilding/CHARACTER CARDS/Murasaki Family/Eva Murasaki.md"},
+		{"id":"de5cbfe49e5f81f1","x":-434,"y":360,"width":250,"height":60,"type":"text","text":"First Child"},
+		{"id":"60911b60e320c511","type":"text","text":"Second Child","x":-114,"y":360,"width":250,"height":60},
+		{"id":"699cc9bfda5b2990","type":"text","text":"Third Child","x":220,"y":360,"width":250,"height":60},
+		{"id":"aab658b69248c95c","x":-120,"y":-740,"width":261,"height":320,"type":"file","file":"REMINISU/3 - Worldbuilding/CHARACTER CARDS/Murasaki Family/Hana Murasaki.md"}
+	],
+	"edges":[
+		{"id":"39552089d30748fe","fromNode":"aab658b69248c95c","fromSide":"bottom","toNode":"f85b043d3804723c","toSide":"top"},
+		{"id":"9ebd0ad90601682c","fromNode":"aab658b69248c95c","fromSide":"bottom","toNode":"a5ad4c661021dea4","toSide":"top"},
+		{"id":"c716e56cc6447fe3","fromNode":"aab658b69248c95c","fromSide":"bottom","toNode":"bae4f4714e9e9479","toSide":"top"},
+		{"id":"745d40f2ec6a98a8","fromNode":"f85b043d3804723c","fromSide":"bottom","toNode":"de5cbfe49e5f81f1","toSide":"top"},
+		{"id":"17ba4e4986dac31e","fromNode":"a5ad4c661021dea4","fromSide":"bottom","toNode":"60911b60e320c511","toSide":"top"},
+		{"id":"b84344e873cb048e","fromNode":"bae4f4714e9e9479","fromSide":"bottom","toNode":"699cc9bfda5b2990","toSide":"top"}
+	]
+}

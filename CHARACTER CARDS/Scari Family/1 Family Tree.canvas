@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"ec274df276415446","x":758,"y":582,"width":400,"height":400,"type":"file","file":"Reminisu/3 - Worldbuilding/OMNNIVERSE/CHARACTER CARDS/Scari Family/Rena Scari/Rena's lore Outline.md"},
+		{"id":"bebd3390f05a5ef9","type":"file","file":"Reminisu/3 - Worldbuilding/OMNNIVERSE/CHARACTER CARDS/Scari Family/Nonna Mary.md","x":-295,"y":-520,"width":400,"height":400},
+		{"id":"8549020d35f1f763","type":"file","file":"Reminisu/3 - Worldbuilding/OMNNIVERSE/CHARACTER CARDS/Scari Family/Anne Petalo Scari.md","x":-275,"y":-40,"width":360,"height":400},
+		{"id":"e4b3af83d9a1728d","type":"file","file":"REMINISU/3 - Worldbuilding/CHARACTER CARDS/Scari Family/Scari Altar.md","x":-295,"y":-960,"width":400,"height":200},
+		{"id":"c14969709d835a16","type":"text","text":"Grandma of Rena\n\nMother of Anne","x":-600,"y":-620,"width":250,"height":100},
+		{"id":"f52ba92e003ead3c","type":"text","text":"Mother of Rena\n\nFirst Daughter of Nonna Mary","x":-600,"y":-100,"width":250,"height":60},
+		{"id":"2227d7c5e38af072","type":"file","file":"REMINISU/3 - Worldbuilding/CHARACTER CARDS/Scari Family/Marie Giulia Scari.md","x":-920,"y":440,"width":400,"height":400},
+		{"id":"91ecfb3e00e8790c","type":"text","text":"Cousins","x":-460,"y":360,"width":120,"height":50},
+		{"id":"1b677c50fa94d413","x":-295,"y":440,"width":400,"height":400,"type":"file","file":"Reminisu/3 - Worldbuilding/OMNNIVERSE/CHARACTER CARDS/Scari Family/Rena Scari/Rena Scari.md"}
+	],
+	"edges":[
+		{"id":"c7b860bf5db4e8e9","fromNode":"bebd3390f05a5ef9","fromSide":"bottom","toNode":"8549020d35f1f763","toSide":"top"},
+		{"id":"2ab62b8425e88a7d","fromNode":"e4b3af83d9a1728d","fromSide":"bottom","toNode":"bebd3390f05a5ef9","toSide":"top"},
+		{"id":"6d5e1881f4ced38e","fromNode":"c14969709d835a16","fromSide":"bottom","toNode":"bebd3390f05a5ef9","toSide":"left"},
+		{"id":"0397d95691fad13f","fromNode":"f52ba92e003ead3c","fromSide":"bottom","toNode":"8549020d35f1f763","toSide":"left"},
+		{"id":"226d7ffde1cac75c","fromNode":"91ecfb3e00e8790c","fromSide":"bottom","toNode":"2227d7c5e38af072","toSide":"right"},
+		{"id":"df034e9f60bf6ec8","fromNode":"91ecfb3e00e8790c","fromSide":"bottom","toNode":"1b677c50fa94d413","toSide":"left"},
+		{"id":"c2806f6d7946c406","fromNode":"8549020d35f1f763","fromSide":"bottom","toNode":"1b677c50fa94d413","toSide":"top"}
+	]
+}

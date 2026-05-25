@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"da56be748ab442dc","x":-60,"y":-140,"width":248,"height":358,"type":"file","file":"REMINISU/3 - Worldbuilding/CHARACTER CARDS/Pilton Family/Robert Pilton.md"},
+		{"id":"2d3a08b9d90737bb","x":-60,"y":400,"width":248,"height":358,"type":"file","file":"REMINISU/3 - Worldbuilding/CHARACTER CARDS/Pilton Family/Fido Pilton.md"},
+		{"id":"115dd952c209c257","x":-380,"y":-190,"width":250,"height":50,"type":"text","text":"Father of Fido"},
+		{"id":"bb1f6b21adc7101e","x":-380,"y":300,"width":250,"height":60,"type":"text","text":"Son of Robert"}
+	],
+	"edges":[
+		{"id":"a8635296bb9fd147","fromNode":"da56be748ab442dc","fromSide":"bottom","toNode":"2d3a08b9d90737bb","toSide":"top"},
+		{"id":"548ef2d863af7e15","fromNode":"115dd952c209c257","fromSide":"bottom","toNode":"da56be748ab442dc","toSide":"left"},
+		{"id":"c1eda33469d33c33","fromNode":"bb1f6b21adc7101e","fromSide":"bottom","toNode":"2d3a08b9d90737bb","toSide":"left"}
+	]
+}
