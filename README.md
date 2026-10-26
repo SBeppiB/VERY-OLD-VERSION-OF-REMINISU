@@ -1,62 +1,31 @@
-82 101 109 105 110 105 115 117
-(please read the bottom for more serious formats)
-——————————————————————————————————————————
+82 101 109 105 110 105 115 117 (please read the bottom for more serious formats) ——————————————————————————————————————————
 
 Reminisu - The Lifelong Odyssey
 
-  
-
 Permissions for Reminisu - Related Fan Creations
 
-  
-
-Furries DNI
-
-  
 
 Allowed Fan Creations:
 
-  
-
 Fan-Games: So cool i wanna play it too
-
-  
 
 Fan-made Animations: you're probably better than me
 
-  
-
 Fan-made AUs (Alternate Universes): make it cool pls or have a good storyline. I encourage originality, dont copy-paste
-
-  
 
 Fan-made Takes on My Stories: Friendly and neutral interpretations are welcome
 
-  
-
 Fanbases: Build your communities TODAY IN OUR SPONSOR, RISE OF-
-
-  
 
 Fan Art: i wanna see different styles of art too
 
-  
-
 Fan Fics: Write to your heart's content but don't go too wild holy shit
-
-  
 
 Satire parodies n compilations: I look forward to seeing what things you guys can come up with
 
-  
-
 Fan-made Merchandise: Allowed, If you’re planning to profit from your creations, reach out. I’ll make sure any deal is fair and mutually beneficial. Also, notify me if you're planning to sell anything via Email, socials, etc. My email is at the bottom of this document
 
-  
-
 Collaborations: I'm open to collabs- hit me up if you're interested
-
-  
 
 Fan-made music: You're probably gonna do it better than I can
 
@@ -64,83 +33,45 @@ Fan-made music: You're probably gonna do it better than I can
 
 What I don't like, but it's still allowed
 
-  
-
 Extreme criticism: ah stop it you're hurting my feelings(Seriously, I’m human, let me know if something doesn’t fit well with you)
-
-  
 
 Roleplay:I don’t understand it but mk
 
-  
-
 Tiktok Edit videos: I’m scared to see what velocity edits you can come up with in tiktok
 
-  
-
 Conspiracies for upcoming events: Even though I already do teasers, I guess you can still do all that. Curiosity is basic human instincts, after all.
-
-  
 
 NSFW: Very gray area, tread lightly on this ice. Make sure it's consensual and NOTHING ILLEGAL
 
 —
 
-  
-
 What I Don’t Allow:
-
-  
 
 Sexualization of Minors: Non-negotiable. I see you hiding behind the screen, P. Diddy.
 
-  
-
 Weird Fanbases: I won't tolerate extremely bizarre or harmful groups forming around my work.
-
-  
 
 AUs with Furries: I draw the line here. Go on, cry. 
 
-  
-
 Plagiarism: No stealing fully unless you interpret it differently like a remake. Big nono in my books
-
-  
 
 Hate Speech: Not here for it, except for furries-I don't care if they're the target.
 
-  
-
 Intentional Misinformation: Don't twist my characters or stories intentionally unless its an AU with some changes
-
-  
 
 extremely weird AU's: Okay a little bit of shits n giggles are alright if it's all satire. But too much…yikes. Like, 2016 undertale type stuff. I wont even do much but in most cases, ill just not acknowledge it
 
-  
-
 Hate oriented Fanbases/Fandoms: You can hop off. Preferably ALT+F4?
-
-  
 
 AI generated content(Stories, videos, music, images, etc):
 
 It's pretty obvious if you use AI. It's okay to use it as a tool, I used it to help me make some ideas for some of reminisu. But fully AI generated content just feels uncanny
 
-  
-
 Misinformation: “OOOOO FRED BEAT NEPHERITE OMG GUYS SBEPPI SAID ITS CANON” sorry, but i need prove of it existing otherwise its just misinformation. Dont spread false shit and hope someone out there falls for it. Ruining the sauce dude
-
-  
 
 —
 
-  
-
 Important Notes (Read Carefully):
-
-  
 
 If I ask you to take something down, please do so. But most of the time, I'll only ask you to if its a real problem
 
@@ -148,36 +79,24 @@ if you dont take it down then... you'll just not be included in a special event.
 
 By the fucking way, if its a skit/comedy/joke work, then idc as long as its not extreme/making profit
 
-  
-
 Crowdfunding: If you wanna crowdfund a project, at least let me know about it so we can make some deals
 
 Crossovers: go wild with other IPs in fanart/fics, i don't own the multiverse. just don't make me liable for using someone else's characters without permission. if you're selling it or making something massive, let me know the deeties first
 
 For spoilers, PLEASE FOR THE LOVE OF GOD, WARN PEOPLE ABOUT IT. GO “WARNING, THIS IS A REALLY BIG SPOILER ABOUT [insert event], PLEASE DONT CLICK ON THIS UNLESS YOU’RE ABSOLUTELY SURE YOU’VE GOTTEN TO THIS POINT” . Or something simple like “This is a spoiler in general, its about [insert event], please dont click if you havent read it.”
 
-  
-
 Consented Use: By creating fan-made content, you agree that I can use your work. E.G you let me edit, redistribute, and use your content in my own (non-profit)work. Game is game :D
-
-  
 
 Attribution: Always credit me. Somewhere visible like in the description, comments or the actual video/image/surface, so it's clear who the original creator is. 
 
-  
-
 Feedback Welcome: I encourage any suggestions to help me improve.
-
-  
 
 Being toxic to people in fanmade servers: I don't really care about it, I don't enforce rules in online chats, even if I could, I wouldn't care. Be mean or whatever. I don't consider servers to be bad unless it's fully dedicated to being mean and/or dicks to another person outside it. (TO clarify, these are servers not moderated by ME)
 
-  
-
 Make sure to report abuse. Flag shit that crosses my lines or yours. 
 
-More big boy stuff (buckle up lawyers.)
-----------------------
+## More big boy stuff (buckle up lawyers.)
+
 # REMINISU - THE LIFELONG ODYSSEY
 
 ## Comprehensive Fan Content Creation Guidelines and Intellectual Property Usage Agreement
@@ -187,7 +106,7 @@ More big boy stuff (buckle up lawyers.)
 **Last Updated:** January 18, 2026  
 **Governing Jurisdiction:** United Kingdom  
 **Original Creator:** SBeppi Bubtals  
-**Contact:** sbeppibubtalz@gmail.com
+**Contact:** [sbeppibubtalz@gmail.com](mailto:sbeppibubtalz@gmail.com)
 
 ---
 
@@ -361,7 +280,7 @@ Upon receiving takedown notice, fan creator must:
 
 #### 9.2.2 Appeal Submission
 
-- Submit to: sbeppibubtalz@gmail.com
+- Submit to: [sbeppibubtalz@gmail.com](mailto:sbeppibubtalz@gmail.com)
 - Subject: "Takedown Appeal - [Content Title]"
 - Include: Explanation, evidence, proposed solution
 - Deadline: Within 48 hours of takedown notice
@@ -454,6 +373,8 @@ Must include:
 
 #### 10.2.1 Absolutely Prohibited
 
+
+
 - Loot boxes or gacha mechanics with paid currency
 - NFT or cryptocurrency integration
 - Play-to-earn schemes
@@ -465,13 +386,19 @@ Must include:
 
 #### 10.2.2 Discouraged
 
+
+
 - Excessive grinding designed to push microtransactions (not applicable since fan games must be free)
 - Incomplete or "early access" states abandoned without communication
 - Asset flips with minimal original content
 
 ### 10.3 Multiplayer and Online Features
 
+
+
 #### 10.3.1 Server Requirements
+
+
 
 If game includes online multiplayer:
 
@@ -483,6 +410,7 @@ If game includes online multiplayer:
 
 #### 10.3.2 Community Safety
 
+
 - Must moderate for hate speech and harassment
 - Must remove illegal content
 - Must ban users engaging in prohibited behavior
@@ -492,9 +420,15 @@ If game includes online multiplayer:
 
 ## 11. NSFW CONTENT GUIDELINES AND RESTRICTIONS
 
+
+
 ### 11.1 General NSFW Policies
 
+
+
 #### 11.1.1 Definition of NSFW
+
+
 
 For purposes of this document, NSFW includes:
 
@@ -506,6 +440,8 @@ For purposes of this document, NSFW includes:
 
 #### 11.1.2 Baseline Requirements for ALL NSFW Content
 
+
+
 - Must be marked as 18+ / Adult Content / NSFW
 - Must be behind age gate or login wall
 - Must include specific content warnings
@@ -514,7 +450,11 @@ For purposes of this document, NSFW includes:
 
 ### 11.2 Permitted NSFW Content
 
+
+
 #### 11.2.1 Artistic Nudity
+
+
 
 Permitted:
 
@@ -531,6 +471,8 @@ Must include:
 
 #### 11.2.2 Sexual Content Between Consenting Adult Characters
 
+
+
 Permitted with restrictions:
 
 - Characters must be verified adults (18+)
@@ -539,6 +481,8 @@ Permitted with restrictions:
 - Must respect established canonical sexualities (if any)
 
 #### 11.2.3 Gore and Extreme Violence
+
+
 
 Permitted with restrictions:
 
@@ -549,7 +493,10 @@ Permitted with restrictions:
 
 ### 11.3 Minor Character Protections
 
+
+
 #### 11.3.1 Absolute Prohibitions
+
 
 NEVER permitted:
 
@@ -562,6 +509,8 @@ NEVER permitted:
 
 #### 11.3.2 "Aged-Up" Character Rules
 
+
+
 If character is canonically under 18:
 
 - "Aging up" for non-sexual storytelling: Permitted
@@ -573,7 +522,10 @@ Exception: Characters who age naturally in canon and become adults may be depict
 
 ### 11.4 Prohibited Fetish Content
 
+
+
 #### 11.4.1 Absolutely Prohibited Fetishes
+
 
 - Pedophilia or child sexualization
 - Bestiality or zoophilia
@@ -583,6 +535,8 @@ Exception: Characters who age naturally in canon and become adults may be depict
 - Content sexualizing real children (even aged-up photos/deepfakes)
 
 #### 11.4.2 Heavily Restricted Fetishes (Tread Carefully)
+
+
 
 Permitted ONLY with extreme content warnings:
 
@@ -595,16 +549,13 @@ Permitted ONLY with extreme content warnings:
 
 Must include warnings: "EXTREME CONTENT WARNING: This work contains [specific fetishes]. All depicted characters are 18+. This is fantasy and does not depict or endorse real-world harmful behavior."
 
-#### 11.4.3 Furry Content Exception
-
-As stated in Section 3.1.3:
-
-- Furry/anthropomorphic versions of characters prohibited regardless of context
-- This applies to NSFW content as well
-
 ### 11.5 Platform-Specific NSFW Guidelines
 
+
+
 #### 11.5.1 Permitted NSFW Platforms
+
+
 
 - Archive of Our Own (AO3)
 - Newgrounds
@@ -616,6 +567,7 @@ As stated in Section 3.1.3:
 
 #### 11.5.2 Prohibited/Risky Platforms
 
+
 - Instagram (too restrictive)
 - YouTube (against TOS)
 - TikTok (against TOS)
@@ -625,6 +577,8 @@ As stated in Section 3.1.3:
 Use at own risk, Creator not responsible for platform bans
 
 #### 11.5.3 Age Gate Requirements
+
+
 
 All NSFW content must include:
 
@@ -637,9 +591,15 @@ All NSFW content must include:
 
 ## 12. ALTERNATE UNIVERSE (AU) CREATION STANDARDS
 
+
+
 ### 12.1 Permitted AU Types
 
+
+
 #### 12.1.1 Setting-Based AUs
+
+
 
 Fully permitted:
 
@@ -659,6 +619,8 @@ Fully permitted:
 
 #### 12.1.2 Concept-Based AUs
 
+
+
 Fully permitted:
 
 - Coffee shop AU
@@ -676,18 +638,24 @@ Fully permitted:
 
 #### 12.1.3 Role-Swap AUs
 
+
+
 Permitted with care:
 
 - Hero/villain swap
 - Personality swap
 - Age swap (adults as teens, teens as adults - NO sexual content involving aged-down characters)
-- Species swap (human/supernatural - NO furry content)
+- Species swap (human/supernatural - please explain yourself.)
 - Profession swap
 - Power/ability swap
 
 ### 12.2 AU Restrictions
 
+
+
 #### 12.2.1 Character Integrity Requirements
+
+
 
 When creating AUs, must maintain:
 
@@ -698,12 +666,16 @@ When creating AUs, must maintain:
 
 #### 12.2.2 Age Modification Limits
 
+
+
 - Cannot age down adult characters more than 5 years for sexual content purposes
 - Cannot age up minor characters for sexual content purposes
 - Time-skip AUs showing natural aging: Permitted
 - De-aging for non-sexual storytelling: Permitted
 
 #### 12.2.3 Gender/Sexuality Changes
+
+
 
 - Gender-swapped AUs: Permitted
 - Must be respectful and not rely on stereotypes
@@ -713,16 +685,21 @@ When creating AUs, must maintain:
 
 #### 12.2.4 Prohibited AU Types
 
+
+
 Explicitly prohibited:
 
-- Furry AUs (anthropomorphic animal versions)
 - AUs that fundamentally contradict core character identity beyond recognition
 - AUs created solely to bypass content restrictions (e.g., aging up minor solely for NSFW)
 - AUs that promote hate speech or harmful ideologies
 
 ### 12.3 AU Quality Expectations
 
+
+
 #### 12.3.1 Originality Requirements
+
+
 
 Strong AUs should include:
 
@@ -740,6 +717,8 @@ Weak AUs (discouraged but not prohibited):
 
 #### 12.3.2 Crossover AU Considerations
 
+
+
 When combining AU concept with crossover:
 
 - Must respect both source materials
@@ -751,9 +730,14 @@ When combining AU concept with crossover:
 
 ## 13. MERCHANDISE AND PHYSICAL PRODUCT GUIDELINES
 
+
+
 ### 13.1 Small-Scale Merchandise (Under 50 Units)
 
+
 #### 13.1.1 Permitted Without Notification
+
+
 
 May produce and sell up to 50 units per design:
 
@@ -768,6 +752,8 @@ May produce and sell up to 50 units per design:
 
 #### 13.1.2 Requirements
 
+
+
 - Must credit Creator on product or packaging
 - Must clearly state "Unofficial fan-made merchandise"
 - Cannot claim official affiliation
@@ -775,7 +761,11 @@ May produce and sell up to 50 units per design:
 
 ### 13.2 Large-Scale Merchandise (50+ Units)
 
+
+
 #### 13.2.1 Requires Notification to Creator
+
+
 
 Contact required for:
 
@@ -788,7 +778,9 @@ Contact required for:
 
 #### 13.2.2 Notification Process
 
-Email sbeppibubtalz@gmail.com with:
+
+
+Email [sbeppibubtalz@gmail.com](mailto:sbeppibubtalz@gmail.com) with:
 
 - Product description and images
 - Estimated production quantity
@@ -798,6 +790,8 @@ Email sbeppibubtalz@gmail.com with:
 
 #### 13.2.3 Terms Negotiation
 
+
+
 - Creator will respond within 14 business days
 - May require licensing agreement
 - May request 10-20% revenue share OR flat fee
@@ -805,7 +799,9 @@ Email sbeppibubtalz@gmail.com with:
 
 ### 13.3 Print-on-Demand Services
 
+
 #### 13.3.1 Permitted Platforms
+
 
 May use without notification if staying under 50 units:
 
@@ -818,6 +814,8 @@ May use without notification if staying under 50 units:
 
 #### 13.3.2 Requirements
 
+
+
 - Must include attribution in product description
 - Must use "fan art" or "fan-made" tags
 - Cannot use official logos or branding if they exist
@@ -825,7 +823,11 @@ May use without notification if staying under 50 units:
 
 ### 13.4 Prohibited Merchandise
 
+
+
 #### 13.4.1 Never Permitted Without Explicit Written Contract
+
+
 
 - Mass-produced action figures or collectibles
 - Licensed apparel through major retailers
@@ -838,6 +840,8 @@ May use without notification if staying under 50 units:
 
 #### 13.4.2 Quality and Safety Standards
 
+
+
 All merchandise must:
 
 - Meet safety standards for intended market
@@ -849,9 +853,15 @@ All merchandise must:
 
 ## 14. COLLABORATION AND PARTNERSHIP PROTOCOLS
 
+
+
 ### 14.1 Fan-to-Fan Collaborations
 
+
+
 #### 14.1.1 Fully Permitted
+
+
 
 - Joint fan art projects
 - Collaborative fan fiction
@@ -862,6 +872,8 @@ All merchandise must:
 
 #### 14.1.2 Requirements
 
+
+
 - All collaborators must agree to these guidelines
 - Credit all contributors
 - Resolve disputes among yourselves (Creator not mediator)
@@ -870,7 +882,9 @@ All merchandise must:
 
 #### 14.2.1 How to Propose Collaboration
 
-Email sbeppibubtalz@gmail.com with:
+
+
+Email [sbeppibubtalz@gmail.com](mailto:sbeppibubtalz@gmail.com) with:
 
 - Project description and goals
 - Your relevant experience/portfolio
@@ -880,6 +894,8 @@ Email sbeppibubtalz@gmail.com with:
 
 #### 14.2.2 Types of Collaboration Creator May Consider
 
+
+
 - Fan game showcases or features
 - Community events or contests
 - Charity projects
@@ -888,6 +904,8 @@ Email sbeppibubtalz@gmail.com with:
 - Significant fan projects with demonstrated quality
 
 #### 14.2.3 No Guarantees
+
+
 
 - Creator is under no obligation to respond or collaborate
 - Rejection is not personal
@@ -900,7 +918,7 @@ Email sbeppibubtalz@gmail.com with:
 
 For business-level partnerships:
 
-- Must be submitted in writing to sbeppibubtalz@gmail.com
+- Must be submitted in writing to [sbeppibubtalz@gmail.com](mailto:sbeppibubtalz@gmail.com)
 - Include company information and credentials
 - Provide detailed proposal with terms
 - Include examples of previous work
@@ -987,7 +1005,7 @@ Consequences:
 #### 15.2.1 Community Reporting
 
 - Fans may report violations to Creator
-- Use email: sbeppibubtalz@gmail.com with subject "Guideline Violation Report"
+- Use email: [sbeppibubtalz@gmail.com](mailto:sbeppibubtalz@gmail.com) with subject "Guideline Violation Report"
 - Include evidence (links, screenshots, descriptions)
 - Creator will investigate within reasonable timeframe
 
@@ -1125,11 +1143,35 @@ If any provision of these guidelines is found invalid or unenforceable:
 
 **CAN I...?**
 
-Make fan art? → YES Make fan fiction? → YES Make a free fan game? → YES (with rules) Sell my fan art? → YES (under 50 units) Sell lots of merchandise? → Contact Creator first Make NSFW content? → YES (18+ characters only, proper warnings) Make an AU? → YES (no furries) Make money from YouTube videos? → YES (platform ads okay) Use AI to help? → YES (as tool, not replacement) Make crossovers? → YES (credit all sources) Make furry versions? → NO Sexualize minors? → ABSOLUTELY NOT Claim it's official? → NO Sell a fan game? → NO
+Make fan art? → YES 
+
+Make fan fiction? → YES 
+
+Make a free fan game? → YES (with rules)
+
+Sell my fan art? → YES (under 50 units) 
+
+Sell lots of merchandise? → Contact Creator first
+
+Make NSFW content? → YES (18+ characters only, proper warnings, and on appropriate platforms) 
+
+Make an AU? → YES
+
+Make money from YouTube videos? → YES (platform ads okay) 
+
+Use AI to help? → YES (as tool, not replacement) 
+
+Make crossovers? → YES (credit all sources) 
+
+Sexualize minors? → ABSOLUTELY NOT 
+
+Claim it's official? → NO
+
+Sell a fan game? → NO
 
 ### Appendix B: Contact Information
 
-**Primary Contact:** Email: sbeppibubtalz@gmail.com
+**Primary Contact:** Email: [sbeppibubtalz@gmail.com](mailto:sbeppibubtalz@gmail.com)
 
 **Response Times:**
 
@@ -1216,7 +1258,7 @@ Check back periodically for updates to these guidelines. Version number and date
 
 ### Questions?
 
-If you have questions not addressed in this comprehensive document, contact Creator at sbeppibubtalz@gmail.com.
+If you have questions not addressed in this comprehensive document, contact Creator at [sbeppibubtalz@gmail.com](mailto:sbeppibubtalz@gmail.com).
 
 ---
 
@@ -1259,7 +1301,7 @@ _"Create freely, create responsibly, and most importantly—create something ape
 
 #### 2.1.4 Platform Distribution
 
-- Permitted platforms: Itch.io, GameJolt, personal websites, GitHub
+- Permitted platforms: Itch.io, GameJolt, personal websites
 - Prohibited platforms: Steam, Epic Games Store, GOG, console storefronts (unless explicit written permission is granted)
 - Mobile distribution (iOS, Android) permitted only through free channels, not app stores requiring developer fees unless Creator is notified
 
@@ -1307,7 +1349,6 @@ AUs must NOT:
 - Swap character genders without narrative justification
 - Remove core personality traits as defined in official character documentation
 - Contradict fundamental world-building elements (magic systems, technological limitations, historical events) without clearly labeling as "Non-Canon AU"
-- Include anthropomorphic animal versions of characters (furry AUs explicitly prohibited)
 
 #### 2.3.2 Setting Modifications
 
@@ -1487,17 +1528,12 @@ Prohibited content includes:
 - Doxing or harassment of real individuals
 - Content that violates GDPR, COPPA, or other privacy laws
 - Piracy or unauthorized distribution of paid official content
-
-#### 3.1.3 Furry Content
-
-- Anthropomorphic animal versions of characters STRICTLY PROHIBITED
-- "Furry AU" content not permitted under any circumstances
-- Hybrid characters (human with animal ears/tail) are permitted if they maintain primarily human appearance
-- This restriction applies to all fan content types: art, fiction, games, etc.
-
 ### 3.2 Restricted Content (Allowed with Limitations)
 
+
 #### 3.2.1 NSFW Content
+
+
 
 See Section 11 for complete guidelines Summary of restrictions:
 
@@ -1691,7 +1727,7 @@ Required notification for:
 
 #### 5.3.2 Notification Process
 
-- Contact Creator at: sbeppibubtalz@gmail.com
+- Contact Creator at: [sbeppibubtalz@gmail.com](mailto:sbeppibubtalz@gmail.com)
 - Subject line: "Reminisu Commercial Use Notification - [Your Name/Project]"
 - Include: Description of project, monetization method, expected revenue, distribution platform
 - Allow 14 business days for response
@@ -1847,7 +1883,7 @@ Fan creators may create crossover content combining Reminisu with:
 
 #### 7.2.2 Permission Process
 
-- Must contact Creator at sbeppibubtalz@gmail.com
+- Must contact Creator at [sbeppibubtalz@gmail.com](mailto:sbeppibubtalz@gmail.com)
 - Must also secure permission from other IP holders
 - Requires written licensing agreement
 - Subject to revenue sharing negotiations
@@ -1977,10 +2013,7 @@ Must warn for:
 - Body horror or disturbing imagery
 - Substance abuse
 - Torture or extreme suffering
-- Hate speech or discriminatory content (even if portrayed negatively)
-For inquiries or to discuss anything, contact me at sbeppibubtalz@gmail.com.
-
-  
+- Hate speech or discriminatory content (even if portrayed negatively) For inquiries or to discuss anything, contact me at [sbeppibubtalz@gmail.com](mailto:sbeppibubtalz@gmail.com).
 
 CLARIFICATION: NO, YOU DON'T HAVE TO PAY ME FOR YOU MAKING AU’S AND FAN MADE CONTENT, If you do get profit however…you could spare some change…perhaps?
 
